@@ -362,7 +362,7 @@
     {
         "id": "3b_1",
         "type": "Distans t o r",
-        "recordType": "Rekord",
+        "recordType": "Rekord_satt_i_Sverige",
         "class": "DAMER 15 METERS KLASS",
         "value": "510.6 km",
         "date": "2014-05-04",
@@ -374,7 +374,7 @@
     {
         "id": "4b_1",
         "type": "Distans fri t o r",
-        "recordType": "Rekord",
+        "recordType": "Rekord_satt_i_Sverige",
         "class": "DAMER 15 METERS KLASS",
         "value": "511.5 km",
         "date": "2014-05-04",
@@ -386,7 +386,7 @@
     {
         "id": "5b_1",
         "type": "Distans triangelbana",
-        "recordType": "Rekord",
+        "recordType": "Rekord_satt_i_Sverige",
         "class": "DAMER 15 METERS KLASS",
         "value": "515.6 km",
         "date": "2021-04-30",
@@ -398,7 +398,7 @@
     {
         "id": "6b_1",
         "type": "Distans fri över max tre brytpunkter",
-        "recordType": "Rekord",
+        "recordType": "Rekord_satt_i_Sverige",
         "class": "DAMER 15 METERS KLASS",
         "value": "531.6 km",
         "date": "2021-04-30",
@@ -422,7 +422,7 @@
     {
         "id": "8b_1",
         "type": "Hastighet 100 km t o r",
-        "recordType": "Rekord",
+        "recordType": "Rekord_satt_i_Sverige",
         "class": "DAMER 15 METERS KLASS",
         "value": "137.96 km/h",
         "date": "2022-04-23",
@@ -434,7 +434,7 @@
     {
         "id": "9b_1",
         "type": "Hastighet 300 km triangel",
-        "recordType": "Rekord",
+        "recordType": "Rekord_satt_i_Sverige",
         "class": "DAMER 15 METERS KLASS",
         "value": "114.34 km/h",
         "date": "2023-05-13",
@@ -446,7 +446,7 @@
     {
         "id": "10b_1",
         "type": "Hastighet 300 km t o r",
-        "recordType": "Rekord",
+        "recordType": "Rekord_satt_i_Sverige",
         "class": "DAMER 15 METERS KLASS",
         "value": "118.42 km/h",
         "date": "2017-04-19",
@@ -458,7 +458,7 @@
     {
         "id": "11b_1",
         "type": "Hastighet 500 km triangel",
-        "recordType": "Rekord",
+        "recordType": "Rekord_satt_i_Sverige",
         "class": "DAMER 15 METERS KLASS",
         "value": "83.08 km/h",
         "date": "2021-04-30",
@@ -470,7 +470,7 @@
     {
         "id": "12b_1",
         "type": "Hastighet 500 km t o r",
-        "recordType": "Rekord",
+        "recordType": "Rekord_satt_i_Sverige",
         "class": "DAMER 15 METERS KLASS",
         "value": "100.54 km/h",
         "date": "2014-05-04",
@@ -482,7 +482,7 @@
     {
         "id": "1a_1",
         "type": "Höjdvinst",
-        "recordType": "Rekord",
+        "recordType": "Rekord_satt_i_Sverige",
         "class": "DAMER ÖPPEN KLASS",
         "value": "5 785 m",
         "date": "1974-04-17",
@@ -494,7 +494,7 @@
     {
         "id": "2a_1",
         "type": "Absolut höjd",
-        "recordType": "Rekord",
+        "recordType": "Rekord_satt_i_Sverige",
         "class": "DAMER ÖPPEN KLASS",
         "value": "7 045 m",
         "date": "1974-04-17",
@@ -506,7 +506,7 @@
     {
         "id": "3a_1",
         "type": "Distans rakbana",
-        "recordType": "Rekord",
+        "recordType": "Rekord_satt_i_Sverige",
         "class": "DAMER ÖPPEN KLASS",
         "value": "305.6 km",
         "date": "1956-06-22",
@@ -518,7 +518,7 @@
     {
         "id": "4a_1",
         "type": "Distans målflygning",
-        "recordType": "Rekord",
+        "recordType": "Rekord_satt_i_Sverige",
         "class": "DAMER ÖPPEN KLASS",
         "value": "188.0 km",
         "date": "2020-07-17",
@@ -542,7 +542,7 @@
     {
         "id": "6a_1",
         "type": "Distans fri t o r",
-        "recordType": "Rekord",
+        "recordType": "Rekord_satt_i_Sverige",
         "class": "DAMER ÖPPEN KLASS",
         "value": "511.5 km",
         "date": "2014-05-04",
@@ -566,7 +566,7 @@
     {
         "id": "8a_1",
         "type": "Distans fri över max tre brytpunkter",
-        "recordType": "Rekord",
+        "recordType": "Rekord_satt_i_Sverige",
         "class": "DAMER ÖPPEN KLASS",
         "value": "531.6 km",
         "date": "2021-04-30",
