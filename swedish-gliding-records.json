@@ -496,17 +496,6 @@
   },
   {
     "class" : "DAMER ÖPPEN KLASS",
-    "date" : "2014-05-04",
-    "deprecated" : false,
-    "glider" : "Discus 2T",
-    "id" : "6a_1",
-    "name" : "Gunilla Lundström-Lindell",
-    "recordType" : "Rekord",
-    "type" : "Distans fri t o r",
-    "value" : "511.5 km"
-  },
-  {
-    "class" : "DAMER ÖPPEN KLASS",
     "date" : "1982-01-19",
     "deprecated" : false,
     "glider" : "DG-200\/17 (i Australien)",
