@@ -1296,17 +1296,6 @@
   },
   {
     "class" : "ÖPPEN KLASS",
-    "date" : "2016-11-27",
-    "deprecated" : true,
-    "glider" : "Arcus M (Pokweni, Namibia)",
-    "id" : "csv_136",
-    "name" : "Jim Acketoft \/ Wilhelm Wendt",
-    "recordType" : "Rekord_satt_i_Sverige",
-    "type" : "Distans fri över max tre brytpunkter",
-    "value" : "1154,5 km"
-  },
-  {
-    "class" : "ÖPPEN KLASS",
     "date" : "1997-12-30",
     "deprecated" : true,
     "glider" : "Nimbus 4DM (i Sydafrika)",
