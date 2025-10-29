@@ -496,17 +496,6 @@
   },
   {
     "class" : "DAMER ÖPPEN KLASS",
-    "date" : "2021-04-30",
-    "deprecated" : false,
-    "glider" : "Discus 2T",
-    "id" : "8a_1",
-    "name" : "Gunilla Lundström-Lindell",
-    "recordType" : "Rekord",
-    "type" : "Distans fri över max tre brytpunkter",
-    "value" : "531.6 km"
-  },
-  {
-    "class" : "DAMER ÖPPEN KLASS",
     "date" : "1983-01-09",
     "deprecated" : false,
     "glider" : "Nimbus 2 (i Australien)",
