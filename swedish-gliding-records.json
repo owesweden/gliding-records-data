@@ -663,7 +663,7 @@
     "date" : "2015-06-09",
     "glider" : "EB28",
     "id" : "6b_2",
-    "name" : "Wilhelm Wendt\/Jim Acketoftx",
+    "name" : "Wilhelm Wendt\/Jim Acketoft",
     "recordType" : "Rekord_satt_i_Sverige",
     "type" : "Distans fri t o r",
     "value" : "1011.5 km"
@@ -981,7 +981,6 @@
   {
     "class" : "DAMER 15 METERS KLASS",
     "date" : "2014-05-04",
-    "deprecated" : true,
     "glider" : "Discus 2T",
     "id" : "csv_106",
     "name" : "Gunilla Lundström‑Lindell",
