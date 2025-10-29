@@ -68,7 +68,8 @@
   {
     "class" : "15 METERS KLASS",
     "date" : "2007-06-19",
-    "deprecated" : false,
+    "deprecated" : true,
+    "deprecatedAt" : "2025-10-29T13:40:56Z",
     "glider" : "Discus 2T",
     "id" : "4a",
     "name" : "Jan-Ola Nordh",
