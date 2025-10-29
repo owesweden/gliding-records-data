@@ -441,17 +441,6 @@
   },
   {
     "class" : "DAMER ÖPPEN KLASS",
-    "date" : "1956-06-22",
-    "deprecated" : false,
-    "glider" : "Weihe",
-    "id" : "3a_1",
-    "name" : "Gun-Britt Flodén",
-    "recordType" : "Rekord",
-    "type" : "Distans rakbana",
-    "value" : "305.6 km"
-  },
-  {
-    "class" : "DAMER ÖPPEN KLASS",
     "date" : "2020-07-17",
     "deprecated" : false,
     "glider" : "LS3",
