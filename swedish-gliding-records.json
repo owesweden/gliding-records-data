@@ -1143,7 +1143,7 @@
   {
     "class" : "DAMER ÖPPEN KLASS",
     "date" : "1956-06-22",
-    "deprecated" : true,
+    "deprecated" : false,
     "glider" : "Weihe",
     "id" : "csv_122",
     "name" : "Gun‑Britt Flodén",
