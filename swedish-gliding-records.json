@@ -2,6 +2,7 @@
   {
     "class" : "15 METERS KLASS",
     "date" : "2014-07-22",
+    "deprecated" : false,
     "glider" : "Discus 2T",
     "id" : "1a",
     "name" : "Jan-Ola Nordh",
@@ -12,6 +13,7 @@
   {
     "class" : "15 METERS KLASS",
     "date" : "2014-07-22",
+    "deprecated" : false,
     "glider" : "Discus 2T",
     "id" : "1b",
     "name" : "Jan-Ola Nordh",
@@ -22,6 +24,7 @@
   {
     "class" : "15 METERS KLASS",
     "date" : "2014-07-22",
+    "deprecated" : false,
     "glider" : "Discus 2T",
     "id" : "2a",
     "name" : "Jan-Ola Nordh",
@@ -32,6 +35,7 @@
   {
     "class" : "15 METERS KLASS",
     "date" : "2014-07-22",
+    "deprecated" : false,
     "glider" : "Discus 2T",
     "id" : "2b",
     "name" : "Jan-Ola Nordh",
@@ -42,6 +46,7 @@
   {
     "class" : "15 METERS KLASS",
     "date" : "2006-08-07",
+    "deprecated" : false,
     "glider" : "Discus 2T",
     "id" : "3a",
     "name" : "Jan-Ola Nordh",
@@ -52,6 +57,7 @@
   {
     "class" : "15 METERS KLASS",
     "date" : "2006-08-07",
+    "deprecated" : false,
     "glider" : "Discus 2T",
     "id" : "3b",
     "name" : "Jan-Ola Nordh",
@@ -62,6 +68,7 @@
   {
     "class" : "15 METERS KLASS",
     "date" : "2007-06-19",
+    "deprecated" : false,
     "glider" : "Discus 2T",
     "id" : "4a",
     "name" : "Jan-Ola Nordh",
@@ -72,6 +79,7 @@
   {
     "class" : "15 METERS KLASS",
     "date" : "2007-06-19",
+    "deprecated" : false,
     "glider" : "Discus 2T",
     "id" : "4b",
     "name" : "Jan-Ola Nordh",
@@ -82,6 +90,7 @@
   {
     "class" : "15 METERS KLASS",
     "date" : "2006-05-15",
+    "deprecated" : false,
     "glider" : "Discus 2T",
     "id" : "5a",
     "name" : "Jan-Ola Nordh",
@@ -92,6 +101,7 @@
   {
     "class" : "15 METERS KLASS",
     "date" : "2006-05-15",
+    "deprecated" : false,
     "glider" : "Discus 2T",
     "id" : "5b",
     "name" : "Jan-Ola Nordh",
@@ -102,6 +112,7 @@
   {
     "class" : "15 METERS KLASS",
     "date" : "2023-06-02",
+    "deprecated" : false,
     "glider" : "Discus 2T",
     "id" : "6a",
     "name" : "Jan-Ola Nordh",
@@ -112,6 +123,7 @@
   {
     "class" : "15 METERS KLASS",
     "date" : "2023-06-02",
+    "deprecated" : false,
     "glider" : "Discus 2T",
     "id" : "6b",
     "name" : "Jan-Ola Nordh",
@@ -122,6 +134,7 @@
   {
     "class" : "15 METERS KLASS",
     "date" : "1992-06-01",
+    "deprecated" : false,
     "glider" : "Discus",
     "id" : "7a",
     "name" : "Mikael Nildén\/Rainer Lainio",
@@ -132,6 +145,7 @@
   {
     "class" : "15 METERS KLASS",
     "date" : "1992-06-01",
+    "deprecated" : false,
     "glider" : "Discus",
     "id" : "7b",
     "name" : "Mikael Nildén\/Rainer Lainio",
@@ -142,6 +156,7 @@
   {
     "class" : "15 METERS KLASS",
     "date" : "2010-06-06",
+    "deprecated" : false,
     "glider" : "Discus 2T",
     "id" : "8a",
     "name" : "Jan-Ola Nordh",
@@ -152,6 +167,7 @@
   {
     "class" : "15 METERS KLASS",
     "date" : "2010-06-06",
+    "deprecated" : false,
     "glider" : "Discus 2T",
     "id" : "8b",
     "name" : "Jan-Ola Nordh",
@@ -162,6 +178,7 @@
   {
     "class" : "15 METERS KLASS",
     "date" : "2023-05-13",
+    "deprecated" : false,
     "glider" : "Discus 2T",
     "id" : "9a",
     "name" : "Richard Swanström",
@@ -172,6 +189,7 @@
   {
     "class" : "15 METERS KLASS",
     "date" : "2023-05-13",
+    "deprecated" : false,
     "glider" : "Discus 2T",
     "id" : "9b",
     "name" : "Richard Swanström",
@@ -182,6 +200,7 @@
   {
     "class" : "15 METERS KLASS",
     "date" : "2015-12-18",
+    "deprecated" : false,
     "glider" : "ASW 27b (i Sydafrika)",
     "id" : "10a",
     "name" : "Anders Jacobsson",
@@ -192,6 +211,7 @@
   {
     "class" : "15 METERS KLASS",
     "date" : "1991-04-24",
+    "deprecated" : false,
     "glider" : "Glasflügel 304",
     "id" : "10b",
     "name" : "Kjell Dalsheim",
@@ -202,6 +222,7 @@
   {
     "class" : "15 METERS KLASS",
     "date" : "2008-12-26",
+    "deprecated" : false,
     "glider" : "Ventus B",
     "id" : "11a",
     "name" : "Peter Isacsson",
@@ -212,6 +233,7 @@
   {
     "class" : "15 METERS KLASS",
     "date" : "2021-06-06",
+    "deprecated" : false,
     "glider" : "Discus 2T",
     "id" : "11b",
     "name" : "Jan-Ola Nordh",
@@ -222,6 +244,7 @@
   {
     "class" : "15 METERS KLASS",
     "date" : "2015-12-18",
+    "deprecated" : false,
     "glider" : "ASW 27b (i Sydafrika)",
     "id" : "12a",
     "name" : "Anders Jacobsson",
@@ -232,6 +255,7 @@
   {
     "class" : "15 METERS KLASS",
     "date" : "2008-05-09",
+    "deprecated" : false,
     "glider" : "Discus 2T",
     "id" : "12b",
     "name" : "Jan-Ola Nordh",
@@ -242,6 +266,7 @@
   {
     "class" : "15 METERS KLASS",
     "date" : "1982-06-18",
+    "deprecated" : false,
     "glider" : "LS3-a",
     "id" : "13a",
     "name" : "Åke Pettersson",
@@ -252,6 +277,7 @@
   {
     "class" : "15 METERS KLASS",
     "date" : "1982-06-18",
+    "deprecated" : false,
     "glider" : "LS3-a",
     "id" : "13b",
     "name" : "Åke Pettersson",
@@ -262,6 +288,7 @@
   {
     "class" : "15 METERS KLASS",
     "date" : "2006-08-07",
+    "deprecated" : false,
     "glider" : "Discus 2T",
     "id" : "14a",
     "name" : "Jan-Ola Nordh",
@@ -272,6 +299,7 @@
   {
     "class" : "15 METERS KLASS",
     "date" : "2006-08-07",
+    "deprecated" : false,
     "glider" : "Discus 2T",
     "id" : "14b",
     "name" : "Jan-Ola Nordh",
@@ -282,6 +310,7 @@
   {
     "class" : "DAMER 15 METERS KLASS",
     "date" : "",
+    "deprecated" : false,
     "glider" : "",
     "id" : "1b_1",
     "name" : "",
@@ -292,6 +321,7 @@
   {
     "class" : "DAMER 15 METERS KLASS",
     "date" : "2020-07-17",
+    "deprecated" : false,
     "glider" : "LS3",
     "id" : "2b_1",
     "name" : "Karin Lindgren",
@@ -302,6 +332,7 @@
   {
     "class" : "DAMER 15 METERS KLASS",
     "date" : "2014-05-04",
+    "deprecated" : false,
     "glider" : "Discus 2T",
     "id" : "3b_1",
     "name" : "Gunilla Lundström-Lindell",
@@ -312,6 +343,7 @@
   {
     "class" : "DAMER 15 METERS KLASS",
     "date" : "2014-05-04",
+    "deprecated" : false,
     "glider" : "Discus 2T",
     "id" : "4b_1",
     "name" : "Gunilla Lundström-Lindell",
@@ -322,6 +354,7 @@
   {
     "class" : "DAMER 15 METERS KLASS",
     "date" : "2021-04-30",
+    "deprecated" : false,
     "glider" : "Discus 2T",
     "id" : "5b_1",
     "name" : "Gunilla Lundström-Lindell",
@@ -332,6 +365,7 @@
   {
     "class" : "DAMER 15 METERS KLASS",
     "date" : "2021-04-30",
+    "deprecated" : false,
     "glider" : "Discus 2T",
     "id" : "6b_1",
     "name" : "Gunilla Lundström-Lindell",
@@ -342,6 +376,7 @@
   {
     "class" : "DAMER 15 METERS KLASS",
     "date" : "1982-06-02",
+    "deprecated" : false,
     "glider" : "PIK-20B",
     "id" : "7b_1",
     "name" : "Boel Svensson",
@@ -352,6 +387,7 @@
   {
     "class" : "DAMER 15 METERS KLASS",
     "date" : "2022-04-23",
+    "deprecated" : false,
     "glider" : "LS8",
     "id" : "8b_1",
     "name" : "Gunilla Lundström-Lindell",
@@ -362,6 +398,7 @@
   {
     "class" : "DAMER 15 METERS KLASS",
     "date" : "2023-05-13",
+    "deprecated" : false,
     "glider" : "Discus 2T",
     "id" : "9b_1",
     "name" : "Gunilla Lundström-Lindell",
@@ -372,6 +409,7 @@
   {
     "class" : "DAMER 15 METERS KLASS",
     "date" : "2017-04-19",
+    "deprecated" : false,
     "glider" : "LS8",
     "id" : "10b_1",
     "name" : "Gunilla Lundström-Lindell",
@@ -382,6 +420,7 @@
   {
     "class" : "DAMER 15 METERS KLASS",
     "date" : "2021-04-30",
+    "deprecated" : false,
     "glider" : "Discus 2T",
     "id" : "11b_1",
     "name" : "Gunilla Lundström-Lindell",
@@ -392,6 +431,7 @@
   {
     "class" : "DAMER 15 METERS KLASS",
     "date" : "2014-05-04",
+    "deprecated" : false,
     "glider" : "Discus 2T",
     "id" : "12b_1",
     "name" : "Gunilla Lundström-Lindell",
@@ -402,6 +442,7 @@
   {
     "class" : "DAMER ÖPPEN KLASS",
     "date" : "1974-04-17",
+    "deprecated" : false,
     "glider" : "Zugvogel IV",
     "id" : "1a_1",
     "name" : "Kerstin Eriksson",
@@ -412,6 +453,7 @@
   {
     "class" : "DAMER ÖPPEN KLASS",
     "date" : "1974-04-17",
+    "deprecated" : false,
     "glider" : "Zugvogel IV",
     "id" : "2a_1",
     "name" : "Kerstin Eriksson",
@@ -422,6 +464,7 @@
   {
     "class" : "DAMER ÖPPEN KLASS",
     "date" : "1956-06-22",
+    "deprecated" : false,
     "glider" : "Weihe",
     "id" : "3a_1",
     "name" : "Gun-Britt Flodén",
@@ -432,6 +475,7 @@
   {
     "class" : "DAMER ÖPPEN KLASS",
     "date" : "2020-07-17",
+    "deprecated" : false,
     "glider" : "LS3",
     "id" : "4a_1",
     "name" : "Karin Lindgren",
@@ -442,6 +486,7 @@
   {
     "class" : "DAMER ÖPPEN KLASS",
     "date" : "1982-01-18",
+    "deprecated" : false,
     "glider" : "DG-200\/17 (i Australien)",
     "id" : "5a_1",
     "name" : "Boel Svensson",
@@ -452,6 +497,7 @@
   {
     "class" : "DAMER ÖPPEN KLASS",
     "date" : "2014-05-04",
+    "deprecated" : false,
     "glider" : "Discus 2T",
     "id" : "6a_1",
     "name" : "Gunilla Lundström-Lindell",
@@ -462,6 +508,7 @@
   {
     "class" : "DAMER ÖPPEN KLASS",
     "date" : "1982-01-19",
+    "deprecated" : false,
     "glider" : "DG-200\/17 (i Australien)",
     "id" : "7a_1",
     "name" : "Boel Svensson",
@@ -472,6 +519,7 @@
   {
     "class" : "DAMER ÖPPEN KLASS",
     "date" : "2021-04-30",
+    "deprecated" : false,
     "glider" : "Discus 2T",
     "id" : "8a_1",
     "name" : "Gunilla Lundström-Lindell",
@@ -482,6 +530,7 @@
   {
     "class" : "DAMER ÖPPEN KLASS",
     "date" : "1983-01-09",
+    "deprecated" : false,
     "glider" : "Nimbus 2 (i Australien)",
     "id" : "9a_1",
     "name" : "Teresa Toivonen",
@@ -492,6 +541,7 @@
   {
     "class" : "DAMER ÖPPEN KLASS",
     "date" : "1983-01-30",
+    "deprecated" : false,
     "glider" : "DG-200\/17 (i Australien)",
     "id" : "10a_1",
     "name" : "Boel Svensson",
@@ -502,6 +552,7 @@
   {
     "class" : "DAMER ÖPPEN KLASS",
     "date" : "1983-12-28",
+    "deprecated" : false,
     "glider" : "Nimbus 2 (i Australien)",
     "id" : "11a_1",
     "name" : "Teresa Toivonen",
@@ -512,6 +563,7 @@
   {
     "class" : "DAMER ÖPPEN KLASS",
     "date" : "1987-02-19",
+    "deprecated" : false,
     "glider" : "Discus (i Australien)",
     "id" : "12a_1",
     "name" : "Teresa Toivonen",
@@ -522,6 +574,7 @@
   {
     "class" : "DAMER ÖPPEN KLASS",
     "date" : "1982-02-15",
+    "deprecated" : false,
     "glider" : "Nimbus 2 (i Australien)",
     "id" : "13a_1",
     "name" : "Teresa Toivonen",
@@ -532,6 +585,7 @@
   {
     "class" : "DAMER ÖPPEN KLASS",
     "date" : "1982-12-22",
+    "deprecated" : false,
     "glider" : "Nimbus 2 (i Australien)",
     "id" : "14a_1",
     "name" : "Teresa Toivonen",
@@ -542,6 +596,7 @@
   {
     "class" : "DAMER ÖPPEN KLASS",
     "date" : "1983-01-21",
+    "deprecated" : false,
     "glider" : "Nimbus 2 (i Australien)",
     "id" : "15a",
     "name" : "Teresa Toivonen",
@@ -552,6 +607,7 @@
   {
     "class" : "ÖPPEN KLASS",
     "date" : "1986-03-19",
+    "deprecated" : false,
     "glider" : "Jantar Std",
     "id" : "1a_2",
     "name" : "Per Fornander",
@@ -562,6 +618,7 @@
   {
     "class" : "ÖPPEN KLASS",
     "date" : "1986-03-19",
+    "deprecated" : false,
     "glider" : "Jantar Std",
     "id" : "1b_2",
     "name" : "Per Fornander",
@@ -572,6 +629,7 @@
   {
     "class" : "ÖPPEN KLASS",
     "date" : "1986-03-19",
+    "deprecated" : false,
     "glider" : "Jantar Std",
     "id" : "2a_2",
     "name" : "Per Fornander",
@@ -582,6 +640,7 @@
   {
     "class" : "ÖPPEN KLASS",
     "date" : "1986-03-19",
+    "deprecated" : false,
     "glider" : "Jantar Std",
     "id" : "2b_2",
     "name" : "Per Fornander",
@@ -592,6 +651,7 @@
   {
     "class" : "ÖPPEN KLASS",
     "date" : "1998-12-11",
+    "deprecated" : false,
     "glider" : "ASW22 (i Australien)",
     "id" : "3a_2",
     "name" : "Anders Olsson",
@@ -602,6 +662,7 @@
   {
     "class" : "ÖPPEN KLASS",
     "date" : "2014-07-22",
+    "deprecated" : false,
     "glider" : "Discus 2T",
     "id" : "3b_2",
     "name" : "Jan-Ola Nordh",
@@ -612,6 +673,7 @@
   {
     "class" : "ÖPPEN KLASS",
     "date" : "1998-12-11",
+    "deprecated" : false,
     "glider" : "ASW22 (i Australien)",
     "id" : "4a_2",
     "name" : "Anders Olsson",
@@ -622,6 +684,7 @@
   {
     "class" : "ÖPPEN KLASS",
     "date" : "2014-07-22",
+    "deprecated" : false,
     "glider" : "Discus 2T",
     "id" : "4b_2",
     "name" : "Jan-Ola Nordh",
@@ -632,6 +695,7 @@
   {
     "class" : "ÖPPEN KLASS",
     "date" : "2015-06-09",
+    "deprecated" : false,
     "glider" : "EB28",
     "id" : "5a_2",
     "name" : "Wilhelm Wendt\/Jim Acketoft",
@@ -642,6 +706,7 @@
   {
     "class" : "ÖPPEN KLASS",
     "date" : "2015-06-09",
+    "deprecated" : false,
     "glider" : "EB28",
     "id" : "5b_2",
     "name" : "Wilhelm Wendt\/Jim Acketoft",
@@ -651,6 +716,7 @@
   },
   {
     "date" : "2015-06-09",
+    "deprecated" : false,
     "glider" : "EB28",
     "id" : "6a_2",
     "name" : "Wilhelm Wendt\/Jim Acketoft",
@@ -661,6 +727,7 @@
   {
     "class" : "ÖPPEN KLASS",
     "date" : "2015-06-09",
+    "deprecated" : false,
     "glider" : "EB28",
     "id" : "6b_2",
     "name" : "Wilhelm Wendt\/Jim Acketoft",
@@ -671,6 +738,7 @@
   {
     "class" : "ÖPPEN KLASS",
     "date" : "1997-12-30",
+    "deprecated" : false,
     "glider" : "Nimbus 4DM (i Sydafrika)",
     "id" : "7a_2",
     "name" : "Lars Olsson\/Rainer Lainio",
@@ -681,6 +749,7 @@
   {
     "class" : "ÖPPEN KLASS",
     "date" : "1997-06-11",
+    "deprecated" : false,
     "glider" : "ASH25",
     "id" : "7b_2",
     "name" : "Owe Engström",
@@ -691,6 +760,7 @@
   {
     "class" : "ÖPPEN KLASS",
     "date" : "2016-11-27",
+    "deprecated" : false,
     "glider" : "Arcus M (i Pokweni, Namibia)",
     "id" : "8a_2",
     "name" : "Jim Acketoft\/Wilhelm Wendt",
@@ -701,6 +771,7 @@
   {
     "class" : "ÖPPEN KLASS",
     "date" : "2015-06-09",
+    "deprecated" : false,
     "glider" : "EB28",
     "id" : "8b_2",
     "name" : "Wilhelm Wendt\/Jim Acketoft",
@@ -711,6 +782,7 @@
   {
     "class" : "ÖPPEN KLASS",
     "date" : "1997-06-11",
+    "deprecated" : false,
     "glider" : "ASH25",
     "id" : "7b_3",
     "name" : "Owe Engström",
@@ -721,6 +793,7 @@
   {
     "class" : "ÖPPEN KLASS",
     "date" : "2018-12-28",
+    "deprecated" : false,
     "glider" : "JS1 b (i Sydafrika)",
     "id" : "9a_2",
     "name" : "Ronny Eriksson",
@@ -731,6 +804,7 @@
   {
     "class" : "ÖPPEN KLASS",
     "date" : "2000-12-20",
+    "deprecated" : false,
     "glider" : "Ventus C 17.6 (i Nya Zealand)",
     "id" : "10b_2",
     "name" : "Jan-Ola Nordh",
@@ -741,6 +815,7 @@
   {
     "class" : "ÖPPEN KLASS",
     "date" : "2015-11-26",
+    "deprecated" : false,
     "glider" : "JS1C-21m (i Sydafrika)",
     "id" : "11a_2",
     "name" : "Ronny Eriksson",
@@ -751,6 +826,7 @@
   {
     "class" : "ÖPPEN KLASS",
     "date" : "2016-12-19",
+    "deprecated" : false,
     "glider" : "JS1-A (i Sydafrika)",
     "id" : "12a_2",
     "name" : "Anders Jacobsson",
@@ -761,6 +837,7 @@
   {
     "class" : "ÖPPEN KLASS",
     "date" : "2017-11-11",
+    "deprecated" : false,
     "glider" : "Antares 23 (i Namibia)",
     "id" : "13a_2",
     "name" : "Börje Eriksson",
@@ -771,6 +848,7 @@
   {
     "class" : "ÖPPEN KLASS",
     "date" : "2015-06-09",
+    "deprecated" : false,
     "glider" : "EB28",
     "id" : "14b_2",
     "name" : "Wilhelm Wendt\/Jim Acketoft",
@@ -781,6 +859,7 @@
   {
     "class" : "ÖPPEN KLASS",
     "date" : "2021-11-20",
+    "deprecated" : false,
     "glider" : "Ventus 3 (i Namibia)",
     "id" : "15a_2",
     "name" : "Börje Eriksson",
@@ -791,6 +870,7 @@
   {
     "class" : "ÖPPEN KLASS",
     "date" : "2019-11-30",
+    "deprecated" : false,
     "glider" : "Arcus M (Namibia)",
     "id" : "16a_2",
     "name" : "Thomas Jobs\/Markus Ganev",
@@ -801,6 +881,7 @@
   {
     "class" : "ÖPPEN KLASS",
     "date" : "2017-11-20",
+    "deprecated" : false,
     "glider" : "Antares 23 (i Namibia)",
     "id" : "17a_2",
     "name" : "Börje Eriksson",
@@ -811,6 +892,7 @@
   {
     "class" : "ÖPPEN KLASS",
     "date" : "1992-07-23",
+    "deprecated" : false,
     "glider" : "ASH25",
     "id" : "18b_2",
     "name" : "Göran Andersson",
@@ -821,6 +903,7 @@
   {
     "class" : "ÖPPEN KLASS",
     "date" : "2020-06-01",
+    "deprecated" : false,
     "glider" : "EB29",
     "id" : "19a_2",
     "name" : "Wilhelm Wendt\/Jim Acketoft",
@@ -831,6 +914,7 @@
   {
     "class" : "ÖPPEN KLASS",
     "date" : "2021-04-11",
+    "deprecated" : false,
     "glider" : "EB29DR",
     "id" : "20a_2",
     "name" : "Wilhelm Wendt\/Jim Acketoft",
@@ -841,6 +925,7 @@
   {
     "class" : "ÖPPEN KLASS",
     "date" : "2014-06-15",
+    "deprecated" : false,
     "glider" : "EB28",
     "id" : "21a_2",
     "name" : "Jim Acketoft\/Gert Acketoft",
@@ -851,6 +936,7 @@
   {
     "class" : "ÖPPEN KLASS",
     "date" : "2018-11-30",
+    "deprecated" : false,
     "glider" : "Quintus (i Namibia)",
     "id" : "22a_2",
     "name" : "Börje Eriksson",
@@ -861,6 +947,7 @@
   {
     "class" : "ÖPPEN KLASS",
     "date" : "2014-05-04",
+    "deprecated" : false,
     "glider" : "EB28",
     "id" : "23a_2",
     "name" : "Jim Acketoft\/Wilhelm Wendt",
@@ -981,6 +1068,7 @@
   {
     "class" : "DAMER 15 METERS KLASS",
     "date" : "2014-05-04",
+    "deprecated" : false,
     "glider" : "Discus 2T",
     "id" : "csv_106",
     "name" : "Gunilla Lundström‑Lindell",
@@ -1098,7 +1186,7 @@
   {
     "class" : "DAMER ÖPPEN KLASS",
     "date" : "2014-05-04",
-    "deprecated" : true,
+    "deprecated" : false,
     "glider" : "Discus 2T",
     "id" : "csv_119",
     "name" : "Gunilla Lundström‑Lindell",
@@ -1351,6 +1439,7 @@
   {
     "class" : "ÖPPEN KLASS",
     "date" : "2006-08-07",
+    "deprecated" : false,
     "glider" : "Discus 2t, SE‑UTA",
     "id" : "csv_150",
     "name" : "Jan‑Ola Nordh",
