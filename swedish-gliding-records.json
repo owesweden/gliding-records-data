@@ -607,7 +607,8 @@
   {
     "class" : "ÖPPEN KLASS",
     "date" : "1986-03-19",
-    "deprecated" : false,
+    "deprecated" : true,
+    "deprecatedAt" : "2025-10-29T13:39:59Z",
     "glider" : "Jantar Std",
     "id" : "2a_2",
     "name" : "Per Fornander",
