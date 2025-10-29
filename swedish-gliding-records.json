@@ -1154,7 +1154,7 @@
   {
     "class" : "DAMER ÖPPEN KLASS",
     "date" : "2021-04-30",
-    "deprecated" : true,
+    "deprecated" : false,
     "glider" : "Discus 2T",
     "id" : "csv_120",
     "name" : "Gunilla Lundström‑Lindell",
