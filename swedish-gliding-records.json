@@ -1153,17 +1153,6 @@
   },
   {
     "class" : "ÖPPEN KLASS",
-    "date" : "2000-12-20",
-    "deprecated" : true,
-    "glider" : "Ventus C 17.6 (i Nya Zeeland)",
-    "id" : "csv_140",
-    "name" : "Jan-Ola Nordh",
-    "recordType" : "Rekord",
-    "type" : "Hastighet 100 km t o r",
-    "value" : "221,97 km\/h"
-  },
-  {
-    "class" : "ÖPPEN KLASS",
     "date" : "2015-06-09",
     "deprecated" : true,
     "glider" : "EB28",
