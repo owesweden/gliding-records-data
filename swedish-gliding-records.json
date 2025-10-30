@@ -287,17 +287,6 @@
   },
   {
     "class" : "DAMER 15 METERS KLASS",
-    "date" : "2022-04-23",
-    "deprecated" : false,
-    "glider" : "LS8",
-    "id" : "8b_1",
-    "name" : "Gunilla Lundström-Lindell",
-    "recordType" : "Rekord",
-    "type" : "Hastighet 100 km t o r",
-    "value" : "137.96 km\/h"
-  },
-  {
-    "class" : "DAMER 15 METERS KLASS",
     "date" : "2023-05-13",
     "deprecated" : false,
     "glider" : "Discus 2T",
@@ -1139,17 +1128,6 @@
     "recordType" : "Rekord",
     "type" : "Distans triangelbana",
     "value" : "1042,6 km"
-  },
-  {
-    "class" : "ÖPPEN KLASS",
-    "date" : "2018-12-28",
-    "deprecated" : true,
-    "glider" : "JS1 b",
-    "id" : "csv_139",
-    "name" : "Ronny Eriksson",
-    "recordType" : "Rekord_satt_i_Sverige",
-    "type" : "Hastighet 100 km triangel",
-    "value" : "178,00 km\/h"
   },
   {
     "class" : "ÖPPEN KLASS",
