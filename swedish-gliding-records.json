@@ -4,17 +4,6 @@
     "date" : "2014-07-22",
     "deprecated" : false,
     "glider" : "Discus 2T",
-    "id" : "1a",
-    "name" : "Jan-Ola Nordh",
-    "recordType" : "Rekord",
-    "type" : "Distans rakbana",
-    "value" : "662.0 km"
-  },
-  {
-    "class" : "15 METERS KLASS",
-    "date" : "2014-07-22",
-    "deprecated" : false,
-    "glider" : "Discus 2T",
     "id" : "1b",
     "name" : "Jan-Ola Nordh",
     "recordType" : "Rekord_satt_i_Sverige",
