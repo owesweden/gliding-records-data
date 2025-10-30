@@ -70,17 +70,6 @@
     "date" : "1992-06-01",
     "deprecated" : false,
     "glider" : "Discus",
-    "id" : "7a",
-    "name" : "Mikael Nildén\/Rainer Lainio",
-    "recordType" : "Rekord",
-    "type" : "Hastighet 100 km triangel",
-    "value" : "158.34 km\/h"
-  },
-  {
-    "class" : "15 METERS KLASS",
-    "date" : "1992-06-01",
-    "deprecated" : false,
-    "glider" : "Discus",
     "id" : "7b",
     "name" : "Mikael Nildén\/Rainer Lainio",
     "recordType" : "Rekord_satt_i_Sverige",
