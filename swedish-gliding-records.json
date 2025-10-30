@@ -903,17 +903,6 @@
   },
   {
     "class" : "15 METERS KLASS",
-    "date" : "2007-06-19",
-    "deprecated" : true,
-    "glider" : "Discus 2t, SE‑UTA",
-    "id" : "csv_90",
-    "name" : "Jan‑Ola Nordh",
-    "recordType" : "Rekord_satt_i_Sverige",
-    "type" : "Distans fri t o r",
-    "value" : "808,8 km"
-  },
-  {
-    "class" : "15 METERS KLASS",
     "date" : "2005-06-07",
     "deprecated" : true,
     "glider" : "Ventus‑2b",
