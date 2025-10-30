@@ -331,17 +331,6 @@
   },
   {
     "class" : "DAMER 15 METERS KLASS",
-    "date" : "2021-04-30",
-    "deprecated" : false,
-    "glider" : "Discus 2T",
-    "id" : "6b_1",
-    "name" : "Gunilla Lundström-Lindell",
-    "recordType" : "Rekord",
-    "type" : "Distans fri över max tre brytpunkter",
-    "value" : "531.6 km"
-  },
-  {
-    "class" : "DAMER 15 METERS KLASS",
     "date" : "1982-06-02",
     "deprecated" : false,
     "glider" : "PIK-20B",
