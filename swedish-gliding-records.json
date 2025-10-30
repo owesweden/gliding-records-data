@@ -1043,17 +1043,6 @@
   },
   {
     "class" : "DAMER ÖPPEN KLASS",
-    "date" : "1982-01-19",
-    "deprecated" : true,
-    "glider" : "DG‑200\/17 (Australien)",
-    "id" : "csv_123",
-    "name" : "Boel Svensson",
-    "recordType" : "Rekord_satt_i_Sverige",
-    "type" : "Distans triangelbana",
-    "value" : "779,9 km"
-  },
-  {
-    "class" : "DAMER ÖPPEN KLASS",
     "date" : "1983-01-09",
     "deprecated" : true,
     "glider" : "Nimbus 2 (Australien)",
