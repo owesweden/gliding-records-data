@@ -1054,17 +1054,6 @@
   },
   {
     "class" : "DAMER ÖPPEN KLASS",
-    "date" : "1983-01-30",
-    "deprecated" : true,
-    "glider" : "DG‑200\/17 (Australien)",
-    "id" : "csv_126",
-    "name" : "Boel Svensson",
-    "recordType" : "Rekord_satt_i_Sverige",
-    "type" : "Hastighet 100 km t o r",
-    "value" : "120,13 km\/h"
-  },
-  {
-    "class" : "DAMER ÖPPEN KLASS",
     "date" : "1983-12-28",
     "deprecated" : true,
     "glider" : "Nimbus 2 (Australien)",
