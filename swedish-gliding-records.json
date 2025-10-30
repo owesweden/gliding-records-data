@@ -837,17 +837,6 @@
   },
   {
     "class" : "15 METERS KLASS",
-    "date" : "1992-06-01",
-    "deprecated" : true,
-    "glider" : "Discus",
-    "id" : "csv_97",
-    "name" : "Mikael Nildén \/ Rainer Lainio",
-    "recordType" : "Rekord_satt_i_Sverige",
-    "type" : "Hastighet 100 km triangel",
-    "value" : "158,34 km\/h"
-  },
-  {
-    "class" : "15 METERS KLASS",
     "date" : "2015-12-18",
     "deprecated" : true,
     "glider" : "ASW 27b",
