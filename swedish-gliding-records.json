@@ -1098,17 +1098,6 @@
   },
   {
     "class" : "DAMER ÖPPEN KLASS",
-    "date" : "1982-01-18",
-    "deprecated" : true,
-    "glider" : "DG‑200\/17 (Australien)",
-    "id" : "csv_124",
-    "name" : "Boel Svensson",
-    "recordType" : "Rekord_satt_i_Sverige",
-    "type" : "Distans t o r",
-    "value" : "521,3 km"
-  },
-  {
-    "class" : "DAMER ÖPPEN KLASS",
     "date" : "1983-01-09",
     "deprecated" : true,
     "glider" : "Nimbus 2 (Australien)",
