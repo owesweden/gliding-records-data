@@ -1121,7 +1121,7 @@
   {
     "class" : "ÖPPEN KLASS",
     "date" : "2008-05-09",
-    "deprecated" : true,
+    "deprecated" : false,
     "glider" : "Discus 2T, SE‑UTA",
     "id" : "csv_147",
     "name" : "Jan‑Ola Nordh",
