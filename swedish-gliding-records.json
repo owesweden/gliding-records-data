@@ -23,6 +23,17 @@
   },
   {
     "class" : "15 METERS KLASS",
+    "date" : "2007-06-19",
+    "deprecated" : false,
+    "glider" : "Discus 2T",
+    "id" : "4b",
+    "name" : "Jan-Ola Nordh",
+    "recordType" : "Rekord_satt_i_Sverige",
+    "type" : "Distans fri t o r",
+    "value" : "808.8 km"
+  },
+  {
+    "class" : "15 METERS KLASS",
     "date" : "2006-05-15",
     "deprecated" : false,
     "glider" : "Discus 2T",
@@ -633,7 +644,7 @@
     "glider" : "Discus 2t, SE‑UTA",
     "id" : "csv_89",
     "name" : "Jan‑Ola Nordh",
-    "recordType" : "Rekord",
+    "recordType" : "Rekord_satt_i_Sverige",
     "type" : "Distans fri t o r",
     "value" : "769,9 km"
   },
@@ -827,11 +838,11 @@
   {
     "class" : "ÖPPEN KLASS",
     "date" : "2007-06-19",
-    "deprecated" : true,
+    "deprecated" : false,
     "glider" : "Discus 2t, SE‑UTA",
     "id" : "csv_134",
     "name" : "Jan‑Ola Nordh",
-    "recordType" : "Rekord_satt_i_Sverige",
+    "recordType" : "Rekord",
     "type" : "Distans fri t o r",
     "value" : "808,8 km"
   },
