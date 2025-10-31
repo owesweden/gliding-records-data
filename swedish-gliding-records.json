@@ -455,17 +455,6 @@
     "date" : "1986-03-19",
     "deprecated" : false,
     "glider" : "Jantar Std",
-    "id" : "1a_2",
-    "name" : "Per Fornander",
-    "recordType" : "Rekord",
-    "type" : "Höjdvinst",
-    "value" : "9 525 m"
-  },
-  {
-    "class" : "ÖPPEN KLASS",
-    "date" : "1986-03-19",
-    "deprecated" : false,
-    "glider" : "Jantar Std",
     "id" : "1b_2",
     "name" : "Per Fornander",
     "recordType" : "Rekord_satt_i_Sverige",
