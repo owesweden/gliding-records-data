@@ -826,17 +826,6 @@
   },
   {
     "class" : "15 METERS KLASS",
-    "date" : "2015-12-18",
-    "deprecated" : true,
-    "glider" : "ASW 27b",
-    "id" : "csv_100",
-    "name" : "Anders Jacobsson",
-    "recordType" : "Rekord_satt_i_Sverige",
-    "type" : "Hastighet 300 km t o r",
-    "value" : "140,69 km\/h"
-  },
-  {
-    "class" : "15 METERS KLASS",
     "date" : "2008-05-09",
     "deprecated" : true,
     "glider" : "Discus 2T, SE‑UTA",
