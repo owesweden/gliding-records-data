@@ -243,17 +243,6 @@
   },
   {
     "class" : "DAMER 15 METERS KLASS",
-    "date" : "2017-04-19",
-    "deprecated" : false,
-    "glider" : "LS8",
-    "id" : "10b_1",
-    "name" : "Gunilla Lundström-Lindell",
-    "recordType" : "Rekord",
-    "type" : "Hastighet 300 km t o r",
-    "value" : "118.42 km\/h"
-  },
-  {
-    "class" : "DAMER 15 METERS KLASS",
     "date" : "2014-05-04",
     "deprecated" : false,
     "glider" : "Discus 2T",
@@ -956,7 +945,7 @@
   {
     "class" : "ÖPPEN KLASS",
     "date" : "2015-06-09",
-    "deprecated" : true,
+    "deprecated" : false,
     "glider" : "EB28",
     "id" : "csv_142",
     "name" : "Wilhelm Wendt \/ Jim Acketoft",
