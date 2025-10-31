@@ -276,17 +276,6 @@
   },
   {
     "class" : "DAMER 15 METERS KLASS",
-    "date" : "2021-04-30",
-    "deprecated" : false,
-    "glider" : "Discus 2T",
-    "id" : "11b_1",
-    "name" : "Gunilla Lundström-Lindell",
-    "recordType" : "Rekord",
-    "type" : "Hastighet 500 km triangel",
-    "value" : "83.08 km\/h"
-  },
-  {
-    "class" : "DAMER 15 METERS KLASS",
     "date" : "2014-05-04",
     "deprecated" : false,
     "glider" : "Discus 2T",
@@ -985,17 +974,6 @@
     "recordType" : "Rekord_satt_i_Sverige",
     "type" : "Hastighet 300 km t o r",
     "value" : "121,23 km\/h"
-  },
-  {
-    "class" : "DAMER ÖPPEN KLASS",
-    "date" : "1982-12-22",
-    "deprecated" : true,
-    "glider" : "Nimbus 2 (Australien)",
-    "id" : "csv_130",
-    "name" : "Teresa Toivonen",
-    "recordType" : "Rekord_satt_i_Sverige",
-    "type" : "Hastighet 500 km t o r",
-    "value" : "114,34 km\/h"
   },
   {
     "class" : "ÖPPEN KLASS",
