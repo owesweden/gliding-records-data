@@ -989,7 +989,7 @@
   {
     "class" : "ÖPPEN KLASS",
     "date" : "2005-04-23",
-    "deprecated" : true,
+    "deprecated" : false,
     "glider" : "Ventus‑2cxm",
     "id" : "csv_143",
     "name" : "Lars Olsson",
