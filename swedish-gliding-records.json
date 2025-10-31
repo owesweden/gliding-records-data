@@ -199,17 +199,6 @@
   },
   {
     "class" : "DAMER 15 METERS KLASS",
-    "date" : "2021-04-30",
-    "deprecated" : false,
-    "glider" : "Discus 2T",
-    "id" : "5b_1",
-    "name" : "Gunilla Lundström-Lindell",
-    "recordType" : "Rekord",
-    "type" : "Distans triangelbana",
-    "value" : "515.6 km"
-  },
-  {
-    "class" : "DAMER 15 METERS KLASS",
     "date" : "2014-05-04",
     "deprecated" : false,
     "glider" : "Discus 2T",
@@ -713,14 +702,6 @@
     "recordType" : "Rekord_satt_i_Sverige",
     "type" : "Distans fri över max tre brytpunkter",
     "value" : "531,6 km"
-  },
-  {
-    "class" : "DAMER 15 METERS KLASS",
-    "deprecated" : true,
-    "id" : "csv_109",
-    "recordType" : "Rekord_satt_i_Sverige",
-    "type" : "Distans rakbana",
-    "value" : "Ej noterat (krav 315,6 km)"
   },
   {
     "class" : "DAMER 15 METERS KLASS",
