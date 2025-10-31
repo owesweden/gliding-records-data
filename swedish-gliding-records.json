@@ -191,17 +191,6 @@
     "date" : "1982-06-18",
     "deprecated" : false,
     "glider" : "LS3-a",
-    "id" : "13a",
-    "name" : "Åke Pettersson",
-    "recordType" : "Rekord",
-    "type" : "Hastighet 750 km triangel",
-    "value" : "110.00 km\/h"
-  },
-  {
-    "class" : "15 METERS KLASS",
-    "date" : "1982-06-18",
-    "deprecated" : false,
-    "glider" : "LS3-a",
     "id" : "13b",
     "name" : "Åke Pettersson",
     "recordType" : "Rekord_satt_i_Sverige",
