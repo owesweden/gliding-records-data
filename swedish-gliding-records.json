@@ -1042,17 +1042,6 @@
     "value" : "114,34 km\/h"
   },
   {
-    "class" : "DAMER ÖPPEN KLASS",
-    "date" : "1983-01-21",
-    "deprecated" : true,
-    "glider" : "Nimbus 2 (Australien)",
-    "id" : "csv_131",
-    "name" : "Teresa Toivonen",
-    "recordType" : "Rekord_satt_i_Sverige",
-    "type" : "Hastighet 750 km triangel",
-    "value" : "97,04 km\/h"
-  },
-  {
     "class" : "ÖPPEN KLASS",
     "date" : "2006-08-07",
     "deprecated" : true,
