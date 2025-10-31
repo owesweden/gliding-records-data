@@ -814,17 +814,6 @@
     "value" : "123,56 km\/h"
   },
   {
-    "class" : "15 METERS KLASS",
-    "date" : "2006-08-07",
-    "deprecated" : true,
-    "glider" : "Discus 2t, SE‑UTA",
-    "id" : "csv_105",
-    "name" : "Jan‑Ola Nordh",
-    "recordType" : "Rekord_satt_i_Sverige",
-    "type" : "Hastighet 750 km t o r",
-    "value" : "102,67 km\/h"
-  },
-  {
     "class" : "DAMER 15 METERS KLASS",
     "date" : "2014-05-04",
     "deprecated" : false,
