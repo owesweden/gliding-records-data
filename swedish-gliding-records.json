@@ -221,17 +221,6 @@
   },
   {
     "class" : "DAMER ÖPPEN KLASS",
-    "date" : "1974-04-17",
-    "deprecated" : false,
-    "glider" : "Zugvogel IV",
-    "id" : "2a_1",
-    "name" : "Kerstin Eriksson",
-    "recordType" : "Rekord_satt_i_Sverige",
-    "type" : "Absolut höjd",
-    "value" : "7 045 m"
-  },
-  {
-    "class" : "DAMER ÖPPEN KLASS",
     "date" : "2020-07-17",
     "deprecated" : false,
     "glider" : "LS3",
