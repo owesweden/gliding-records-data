@@ -81,17 +81,6 @@
     "date" : "2010-06-06",
     "deprecated" : false,
     "glider" : "Discus 2T",
-    "id" : "8a",
-    "name" : "Jan-Ola Nordh",
-    "recordType" : "Rekord",
-    "type" : "Hastighet 100 km t o r",
-    "value" : "171.18 km\/h"
-  },
-  {
-    "class" : "15 METERS KLASS",
-    "date" : "2010-06-06",
-    "deprecated" : false,
-    "glider" : "Discus 2T",
     "id" : "8b",
     "name" : "Jan-Ola Nordh",
     "recordType" : "Rekord_satt_i_Sverige",
