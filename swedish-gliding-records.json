@@ -683,6 +683,17 @@
   },
   {
     "class" : "DAMER 15 METERS KLASS",
+    "date" : "2014-05-04",
+    "deprecated" : false,
+    "glider" : "Discus 2T",
+    "id" : "csv_106",
+    "name" : "Gunilla Lundström‑Lindell",
+    "recordType" : "Rekord_satt_i_Sverige",
+    "type" : "Distans fri t o r",
+    "value" : "511,5 km"
+  },
+  {
+    "class" : "DAMER 15 METERS KLASS",
     "date" : "2021-04-30",
     "deprecated" : false,
     "glider" : "Discus 2T",
@@ -716,17 +727,6 @@
   },
   {
     "class" : "DAMER 15 METERS KLASS",
-    "date" : "1982-06-02",
-    "deprecated" : false,
-    "glider" : "PIK‑20B",
-    "id" : "csv_112",
-    "name" : "Boel Svensson",
-    "recordType" : "Rekord_satt_i_Sverige",
-    "type" : "Hastighet 100 km triangel",
-    "value" : "117,36 km\/h"
-  },
-  {
-    "class" : "DAMER 15 METERS KLASS",
     "date" : "2022-04-23",
     "deprecated" : false,
     "glider" : "LS8",
@@ -757,6 +757,17 @@
     "recordType" : "Rekord_satt_i_Sverige",
     "type" : "Hastighet 300 km t o r",
     "value" : "118,42 km\/h"
+  },
+  {
+    "class" : "DAMER 15 METERS KLASS",
+    "date" : "2021-04-30",
+    "deprecated" : false,
+    "glider" : "Discus 2T",
+    "id" : "csv_116",
+    "name" : "Gunilla Lundström‑Lindell",
+    "recordType" : "Rekord_satt_i_Sverige",
+    "type" : "Hastighet 500 km triangel",
+    "value" : "83,08 km\/h"
   },
   {
     "class" : "DAMER 15 METERS KLASS",
