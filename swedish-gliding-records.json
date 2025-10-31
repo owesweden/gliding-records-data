@@ -1098,17 +1098,6 @@
   },
   {
     "class" : "ÖPPEN KLASS",
-    "date" : "1997-12-30",
-    "deprecated" : true,
-    "glider" : "Nimbus 4DM (i Sydafrika)",
-    "id" : "csv_137",
-    "name" : "Lars Olsson \/ Rainer Lainio",
-    "recordType" : "Rekord",
-    "type" : "Distans triangelbana",
-    "value" : "1042,6 km"
-  },
-  {
-    "class" : "ÖPPEN KLASS",
     "date" : "2015-06-09",
     "deprecated" : true,
     "glider" : "EB28",
