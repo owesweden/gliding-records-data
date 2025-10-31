@@ -37,17 +37,6 @@
     "date" : "2006-05-15",
     "deprecated" : false,
     "glider" : "Discus 2T",
-    "id" : "5a",
-    "name" : "Jan-Ola Nordh",
-    "recordType" : "Rekord",
-    "type" : "Distans triangelbana",
-    "value" : "833.7 km"
-  },
-  {
-    "class" : "15 METERS KLASS",
-    "date" : "2006-05-15",
-    "deprecated" : false,
-    "glider" : "Discus 2T",
     "id" : "5b",
     "name" : "Jan-Ola Nordh",
     "recordType" : "Rekord_satt_i_Sverige",
