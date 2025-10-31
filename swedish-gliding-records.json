@@ -857,7 +857,7 @@
   {
     "class" : "DAMER 15 METERS KLASS",
     "date" : "2023-05-13",
-    "deprecated" : true,
+    "deprecated" : false,
     "glider" : "Discus 2T",
     "id" : "csv_114",
     "name" : "Gunilla Lundström‑Lindell",
