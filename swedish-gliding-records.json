@@ -103,17 +103,6 @@
     "date" : "2023-05-13",
     "deprecated" : false,
     "glider" : "Discus 2T",
-    "id" : "9a",
-    "name" : "Richard Swanström",
-    "recordType" : "Rekord",
-    "type" : "Hastighet 300 km triangel",
-    "value" : "136.10 km\/h"
-  },
-  {
-    "class" : "15 METERS KLASS",
-    "date" : "2023-05-13",
-    "deprecated" : false,
-    "glider" : "Discus 2T",
     "id" : "9b",
     "name" : "Richard Swanström",
     "recordType" : "Rekord_satt_i_Sverige",
@@ -251,17 +240,6 @@
     "recordType" : "Rekord",
     "type" : "Hastighet 100 km triangel",
     "value" : "117.36 km\/h"
-  },
-  {
-    "class" : "DAMER 15 METERS KLASS",
-    "date" : "2023-05-13",
-    "deprecated" : false,
-    "glider" : "Discus 2T",
-    "id" : "9b_1",
-    "name" : "Gunilla Lundström-Lindell",
-    "recordType" : "Rekord",
-    "type" : "Hastighet 300 km triangel",
-    "value" : "114.34 km\/h"
   },
   {
     "class" : "DAMER 15 METERS KLASS",
