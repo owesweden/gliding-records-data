@@ -584,17 +584,6 @@
   },
   {
     "class" : "ÖPPEN KLASS",
-    "date" : "2015-06-09",
-    "deprecated" : false,
-    "glider" : "EB28",
-    "id" : "14b_2",
-    "name" : "Wilhelm Wendt\/Jim Acketoft",
-    "recordType" : "Rekord",
-    "type" : "Hastighet 1000 km t o r",
-    "value" : "118.74 km\/h"
-  },
-  {
-    "class" : "ÖPPEN KLASS",
     "date" : "2021-11-20",
     "deprecated" : false,
     "glider" : "Ventus 3 (i Namibia)",
@@ -802,7 +791,7 @@
   {
     "class" : "DAMER 15 METERS KLASS",
     "date" : "1982-06-02",
-    "deprecated" : true,
+    "deprecated" : false,
     "glider" : "PIK‑20B",
     "id" : "csv_112",
     "name" : "Boel Svensson",
