@@ -988,17 +988,6 @@
   },
   {
     "class" : "DAMER ÖPPEN KLASS",
-    "date" : "1982-02-15",
-    "deprecated" : true,
-    "glider" : "Nimbus 2 (Australien)",
-    "id" : "csv_129",
-    "name" : "Teresa Toivonen",
-    "recordType" : "Rekord_satt_i_Sverige",
-    "type" : "Hastighet 500 km triangel",
-    "value" : "114,83 km\/h"
-  },
-  {
-    "class" : "DAMER ÖPPEN KLASS",
     "date" : "1982-12-22",
     "deprecated" : true,
     "glider" : "Nimbus 2 (Australien)",
