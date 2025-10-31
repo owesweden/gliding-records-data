@@ -1106,16 +1106,5 @@
     "recordType" : "Rekord_satt_i_Sverige",
     "type" : "Hastighet 750 km t o r",
     "value" : "102,67 km\/h"
-  },
-  {
-    "class" : "ÖPPEN KLASS",
-    "date" : "2019-11-30",
-    "deprecated" : true,
-    "glider" : "Arcus M (Namibia)",
-    "id" : "csv_151",
-    "name" : "Thomas Jobs \/ Markus Ganev",
-    "recordType" : "Rekord_satt_i_Sverige",
-    "type" : "Hastighet 750 km t o r",
-    "value" : "151,34 km\/h"
   }
 ]
