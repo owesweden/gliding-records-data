@@ -872,17 +872,6 @@
   },
   {
     "class" : "ÖPPEN KLASS",
-    "date" : "2016-12-19",
-    "deprecated" : true,
-    "glider" : "JS1‑A",
-    "id" : "csv_146",
-    "name" : "Anders Jacobsson",
-    "recordType" : "Rekord_satt_i_Sverige",
-    "type" : "Hastighet 500 km triangel",
-    "value" : "163,02 km\/h"
-  },
-  {
-    "class" : "ÖPPEN KLASS",
     "date" : "2008-05-09",
     "deprecated" : false,
     "glider" : "Discus 2T, SE‑UTA",
