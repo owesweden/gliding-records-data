@@ -839,11 +839,12 @@
   {
     "class" : "ÖPPEN KLASS",
     "date" : "2007-06-19",
-    "deprecated" : false,
+    "deprecated" : true,
+    "deprecatedAt" : "2025-11-01T07:36:42Z",
     "glider" : "Discus 2t, SE‑UTA",
     "id" : "csv_134",
     "name" : "Jan‑Ola Nordh",
-    "recordType" : "Rekord",
+    "recordType" : "Rekord_satt_i_Sverige",
     "type" : "Distans fri t o r",
     "value" : "808,8 km"
   },
