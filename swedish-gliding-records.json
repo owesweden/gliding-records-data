@@ -874,7 +874,8 @@
   {
     "class" : "ÖPPEN KLASS",
     "date" : "2008-05-09",
-    "deprecated" : false,
+    "deprecated" : true,
+    "deprecatedAt" : "2025-11-01T07:44:02Z",
     "glider" : "Discus 2T, SE‑UTA",
     "id" : "csv_147",
     "name" : "Jan‑Ola Nordh",
@@ -912,5 +913,15 @@
     "recordType" : "Rekord_satt_i_Sverige",
     "type" : "Hastighet 300 km triangel",
     "value" : "136,10 km\/h"
+  },
+  {
+    "class" : "ÖPPEN KLASS",
+    "date" : "2014-05-04",
+    "deprecated" : false,
+    "glider" : "EB28",
+    "name" : "Jim Acketoft\/Wilhelm Wendt",
+    "recordType" : "Rekord_satt_i_Sverige",
+    "type" : "Hastighet 500 km t o r",
+    "value" : "134,59 km\/h"
   }
 ]
