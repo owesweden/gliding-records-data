@@ -1,6 +1,29 @@
 {
   "entries" : [
     {
+      "changeType" : "deleted",
+      "id" : "1A77A6F7-8229-46BB-8334-357639EFA22F",
+      "newValue" : {
+        "date" : "2015-06-09",
+        "deprecated" : true,
+        "glider" : "EB28",
+        "name" : "Wilhelm Wendt \/ Jim Acketoft",
+        "value" : "118,74 km\/h"
+      },
+      "oldValue" : {
+        "date" : "2015-06-09",
+        "deprecated" : true,
+        "glider" : "EB28",
+        "name" : "Wilhelm Wendt \/ Jim Acketoft",
+        "value" : "118,74 km\/h"
+      },
+      "recordClass" : "ÖPPEN KLASS",
+      "recordFlownAbroad" : false,
+      "recordId" : "csv_142",
+      "recordType" : "Hastighet 1000 km t o r",
+      "timestamp" : "2025-11-02T13:12:09Z"
+    },
+    {
       "changeType" : "changed",
       "id" : "08D2CF4C-FEFC-4119-91BD-8089E4B9B058",
       "newValue" : {
@@ -48,5 +71,5 @@
       "timestamp" : "2025-11-02T10:39:04Z"
     }
   ],
-  "lastUpdated" : "2025-11-02T13:10:42Z"
+  "lastUpdated" : "2025-11-02T13:12:10Z"
 }
