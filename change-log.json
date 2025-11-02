@@ -2,6 +2,29 @@
   "entries" : [
     {
       "changeType" : "deleted",
+      "id" : "522DAA76-D9B8-4B93-8455-201E00E2333D",
+      "newValue" : {
+        "date" : "2019-11-30",
+        "deprecated" : true,
+        "glider" : "Arcus M (Namibia)",
+        "name" : "Thomas Jobs \/ Markus Ganev",
+        "value" : "151,34 km\/h"
+      },
+      "oldValue" : {
+        "date" : "2019-11-30",
+        "deprecated" : true,
+        "glider" : "Arcus M (Namibia)",
+        "name" : "Thomas Jobs \/ Markus Ganev",
+        "value" : "151,34 km\/h"
+      },
+      "recordClass" : "ÖPPEN KLASS",
+      "recordFlownAbroad" : false,
+      "recordId" : "csv_151",
+      "recordType" : "Hastighet 750 km t o r",
+      "timestamp" : "2025-11-02T13:12:47Z"
+    },
+    {
+      "changeType" : "deleted",
       "id" : "1A77A6F7-8229-46BB-8334-357639EFA22F",
       "newValue" : {
         "date" : "2015-06-09",
@@ -71,5 +94,5 @@
       "timestamp" : "2025-11-02T10:39:04Z"
     }
   ],
-  "lastUpdated" : "2025-11-02T13:12:10Z"
+  "lastUpdated" : "2025-11-02T13:12:48Z"
 }
