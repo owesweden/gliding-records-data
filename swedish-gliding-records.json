@@ -177,17 +177,6 @@
   },
   {
     "class" : "DAMER 15 METERS KLASS",
-    "date" : "",
-    "deprecated" : false,
-    "glider" : "",
-    "id" : "1b_1",
-    "name" : "",
-    "recordType" : "Rekord",
-    "type" : "Distans rakbana",
-    "value" : "Ej noterat"
-  },
-  {
-    "class" : "DAMER 15 METERS KLASS",
     "date" : "2020-07-17",
     "deprecated" : false,
     "glider" : "LS3",
