@@ -1,6 +1,30 @@
 {
   "entries" : [
     {
+      "changeType" : "changed",
+      "id" : "08D2CF4C-FEFC-4119-91BD-8089E4B9B058",
+      "newValue" : {
+        "date" : "2006-08-07",
+        "deprecated" : true,
+        "deprecatedAt" : "2025-11-02T13:10:41Z",
+        "glider" : "Discus 2t (SE-UTA)",
+        "name" : "Jan-Ola Nordh",
+        "value" : "769,9 km"
+      },
+      "oldValue" : {
+        "date" : "2006-08-07",
+        "deprecated" : false,
+        "glider" : "Discus 2t (SE-UTA)",
+        "name" : "Jan-Ola Nordh",
+        "value" : "769,9 km"
+      },
+      "recordClass" : "ÖPPEN KLASS",
+      "recordFlownAbroad" : false,
+      "recordId" : "auto_1001",
+      "recordType" : "Distans fri t o r",
+      "timestamp" : "2025-11-02T13:10:41Z"
+    },
+    {
       "changeType" : "deleted",
       "id" : "92FDA319-15BC-435D-BDCC-B8B441A56639",
       "newValue" : {
@@ -24,5 +48,5 @@
       "timestamp" : "2025-11-02T10:39:04Z"
     }
   ],
-  "lastUpdated" : "2025-11-02T10:39:05Z"
+  "lastUpdated" : "2025-11-02T13:10:42Z"
 }
