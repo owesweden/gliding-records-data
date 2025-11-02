@@ -1,1 +1,28 @@
-** change log
+{
+  "entries" : [
+    {
+      "changeType" : "deleted",
+      "id" : "92FDA319-15BC-435D-BDCC-B8B441A56639",
+      "newValue" : {
+        "date" : "",
+        "deprecated" : false,
+        "glider" : "",
+        "name" : "",
+        "value" : "Ej noterat"
+      },
+      "oldValue" : {
+        "date" : "",
+        "deprecated" : false,
+        "glider" : "",
+        "name" : "",
+        "value" : "Ej noterat"
+      },
+      "recordClass" : "DAMER 15 METERS KLASS",
+      "recordFlownAbroad" : true,
+      "recordId" : "1b_1",
+      "recordType" : "Distans rakbana",
+      "timestamp" : "2025-11-02T10:39:04Z"
+    }
+  ],
+  "lastUpdated" : "2025-11-02T10:39:05Z"
+}
