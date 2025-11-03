@@ -319,17 +319,6 @@
     "value" : "662.0 km"
   },
   {
-    "class" : "DAMER 15 METERS KLASS",
-    "date" : "",
-    "deprecated" : false,
-    "glider" : "",
-    "id" : "1b_1",
-    "name" : "",
-    "recordType" : "Rekord",
-    "type" : "Distans rakbana",
-    "value" : "Ej noterat"
-  },
-  {
     "class" : "ÖPPEN KLASS",
     "date" : "1986-03-19",
     "deprecated" : false,
