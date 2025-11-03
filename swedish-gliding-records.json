@@ -297,17 +297,6 @@
     "value" : "5 785 m"
   },
   {
-    "class" : "ÖPPEN KLASS",
-    "date" : "1986-03-19",
-    "deprecated" : false,
-    "glider" : "Jantar Std",
-    "id" : "1a_2",
-    "name" : "Per Fornander",
-    "recordType" : "Rekord",
-    "type" : "Höjdvinst",
-    "value" : "9 525 m"
-  },
-  {
     "class" : "15 METERS KLASS",
     "date" : "2014-07-22",
     "deprecated" : false,
