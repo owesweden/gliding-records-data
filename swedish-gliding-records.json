@@ -605,6 +605,17 @@
     "value" : "114.34 km\/h"
   },
   {
+    "class" : "ÖPPEN KLASS",
+    "date" : "2020-06-01",
+    "deprecated" : false,
+    "glider" : "EB28",
+    "id" : "FSPLYshBzzWcRnAqTJm8",
+    "name" : "Jim Acketoft\/Gert Acketoft",
+    "recordType" : "Rekord_satt_i_Sverige",
+    "type" : "Hastighet 500 km triangel",
+    "value" : "128,64 km\/h"
+  },
+  {
     "class" : "15 METERS KLASS",
     "date" : "2006-08-07",
     "deprecated" : false,
