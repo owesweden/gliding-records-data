@@ -1143,5 +1143,16 @@
     "recordType" : "Rekord_satt_i_Sverige",
     "type" : "Distans fri över max tre brytpunkter",
     "value" : "910 km"
+  },
+  {
+    "class" : "ÖPPEN KLASS",
+    "date" : "2020-06-01",
+    "deprecated" : false,
+    "glider" : "EB29DR",
+    "id" : "v7pqdPfvVa96IFlaYkJw",
+    "name" : "Wilhelm Wendt\/Jim Acketoft",
+    "recordType" : "Rekord_satt_i_Sverige",
+    "type" : "Hastighet 750 km triangel",
+    "value" : "120,04 km\/h"
   }
 ]
