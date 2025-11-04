@@ -883,17 +883,6 @@
     "value" : "170,55 km\/h"
   },
   {
-    "class" : "ÖPPEN KLASS",
-    "date" : "2018-12-01",
-    "deprecated" : false,
-    "glider" : "Quintus",
-    "id" : "auto_1029",
-    "name" : "Börje Eriksson",
-    "recordType" : "Rekord",
-    "type" : "Hastighet 500 km t o r",
-    "value" : "170,55 km\/h"
-  },
-  {
     "class" : "DAMER 15 METERS KLASS",
     "date" : "2019-07-13",
     "deprecated" : false,
