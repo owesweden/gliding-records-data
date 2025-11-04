@@ -851,17 +851,6 @@
   },
   {
     "class" : "ÖPPEN KLASS",
-    "date" : "2017-11-11",
-    "deprecated" : false,
-    "glider" : "Antares 23",
-    "id" : "auto_1025",
-    "name" : "Börje Eriksson",
-    "recordType" : "Rekord",
-    "type" : "Hastighet 500 km t o r",
-    "value" : "164,26 km\/h"
-  },
-  {
-    "class" : "ÖPPEN KLASS",
     "date" : "2017-11-12",
     "deprecated" : false,
     "glider" : "Antares 23",
