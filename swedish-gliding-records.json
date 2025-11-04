@@ -817,7 +817,8 @@
   {
     "class" : "ÖPPEN KLASS",
     "date" : "2016-11-28",
-    "deprecated" : false,
+    "deprecated" : true,
+    "deprecatedAt" : "2025-11-04T08:27:35Z",
     "glider" : "Antares 23",
     "id" : "auto_1022",
     "name" : "Börje Eriksson",
