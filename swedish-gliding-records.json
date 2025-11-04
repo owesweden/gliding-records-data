@@ -440,17 +440,6 @@
     "value" : "808.8 km"
   },
   {
-    "class" : "15 METERS KLASS",
-    "date" : "2006-05-15",
-    "deprecated" : false,
-    "glider" : "Discus 2T",
-    "id" : "5a",
-    "name" : "Jan-Ola Nordh",
-    "recordType" : "Rekord",
-    "type" : "Distans triangelbana",
-    "value" : "833.7 km"
-  },
-  {
     "class" : "DAMER ÖPPEN KLASS",
     "date" : "1982-01-18",
     "deprecated" : false,
@@ -548,17 +537,6 @@
     "recordType" : "Rekord_satt_i_Sverige",
     "type" : "Distans triangelbana",
     "value" : "1 012.8 km"
-  },
-  {
-    "class" : "15 METERS KLASS",
-    "date" : "2010-06-06",
-    "deprecated" : false,
-    "glider" : "Discus 2T",
-    "id" : "8a",
-    "name" : "Jan-Ola Nordh",
-    "recordType" : "Rekord",
-    "type" : "Hastighet 100 km t o r",
-    "value" : "171.18 km\/h"
   },
   {
     "class" : "ÖPPEN KLASS",
