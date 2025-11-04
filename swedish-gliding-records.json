@@ -1001,17 +1001,6 @@
     "value" : "83,08 km\/h"
   },
   {
-    "class" : "15 METERS KLASS",
-    "date" : "2023-05-13",
-    "deprecated" : false,
-    "glider" : "Okänd",
-    "id" : "auto_1033",
-    "name" : "Gunilla Lundström-Lindell",
-    "recordType" : "Rekord_satt_i_Sverige",
-    "type" : "Distans triangelbana",
-    "value" : ">300 km"
-  },
-  {
     "class" : "ÖPPEN KLASS",
     "date" : "2023-05-13",
     "deprecated" : false,
