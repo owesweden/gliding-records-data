@@ -850,7 +850,8 @@
   {
     "class" : "ÖPPEN KLASS",
     "date" : "2017-04-19",
-    "deprecated" : false,
+    "deprecated" : true,
+    "deprecatedAt" : "2025-11-04T08:25:30Z",
     "glider" : "LS8",
     "id" : "auto_1023",
     "name" : "Gunilla Lundström-Lindell",
