@@ -187,17 +187,6 @@
     "value" : "164.26 km\/h"
   },
   {
-    "class" : "15 METERS KLASS",
-    "date" : "2006-08-07",
-    "deprecated" : false,
-    "glider" : "Discus 2T",
-    "id" : "14a",
-    "name" : "Jan-Ola Nordh",
-    "recordType" : "Rekord",
-    "type" : "Hastighet 750 km t o r",
-    "value" : "102.67 km\/h"
-  },
-  {
     "class" : "DAMER ÖPPEN KLASS",
     "date" : "1982-12-22",
     "deprecated" : false,
