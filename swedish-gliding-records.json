@@ -1477,17 +1477,6 @@
   },
   {
     "class" : "ÖPPEN KLASS",
-    "date" : "2017-11-12",
-    "deprecated" : true,
-    "glider" : "Antares 23",
-    "id" : "new_1036",
-    "name" : "Börje Eriksson",
-    "recordType" : "Rekord",
-    "type" : "Hastighet 300 km t o r",
-    "value" : "165,76 km\/h"
-  },
-  {
-    "class" : "ÖPPEN KLASS",
     "date" : "2017-11-20",
     "deprecated" : false,
     "glider" : "Antares 23",
