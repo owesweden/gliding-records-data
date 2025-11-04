@@ -958,17 +958,6 @@
     "value" : "83,08 km\/h"
   },
   {
-    "class" : "ÖPPEN KLASS",
-    "date" : "2023-05-13",
-    "deprecated" : false,
-    "glider" : "Okänd",
-    "id" : "auto_1034",
-    "name" : "Richards Svanström",
-    "recordType" : "Rekord_satt_i_Sverige",
-    "type" : "Distans triangelbana",
-    "value" : ">300 km"
-  },
-  {
     "class" : "15 METERS KLASS",
     "date" : "2023-05-15",
     "deprecated" : false,
@@ -1048,7 +1037,7 @@
   {
     "class" : "ÖPPEN KLASS",
     "date" : "2007-06-19",
-    "deprecated" : true,
+    "deprecated" : false,
     "glider" : "Discus 2t, SE‑UTA",
     "id" : "csv_134",
     "name" : "Jan‑Ola Nordh",
