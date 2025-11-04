@@ -1212,7 +1212,7 @@
   {
     "class" : "15 METERS KLASS",
     "date" : "2006-05-15",
-    "deprecated" : true,
+    "deprecated" : false,
     "glider" : "Discus 2t (SE-UTA)",
     "id" : "new_1003",
     "name" : "Jan-Ola Nordh",
