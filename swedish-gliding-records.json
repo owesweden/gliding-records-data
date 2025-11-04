@@ -1040,7 +1040,8 @@
   {
     "class" : "15 METERS KLASS",
     "date" : "2005-06-07",
-    "deprecated" : false,
+    "deprecated" : true,
+    "deprecatedAt" : "2025-11-04T12:56:44Z",
     "glider" : "Ventus-2b",
     "id" : "new_1001",
     "name" : "Åke Pettersson",
