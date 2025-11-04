@@ -1102,17 +1102,6 @@
     "value" : "910 km"
   },
   {
-    "class" : "ÖPPEN KLASS",
-    "date" : "2005-04-23",
-    "deprecated" : true,
-    "glider" : "Ventus-2cxm",
-    "id" : "new_1000",
-    "name" : "Lars Olsson",
-    "recordType" : "Rekord_satt_i_Sverige",
-    "type" : "Hastighet 300 km triangel",
-    "value" : "131,84 km\/h"
-  },
-  {
     "class" : "15 METERS KLASS",
     "date" : "2005-06-07",
     "deprecated" : false,
