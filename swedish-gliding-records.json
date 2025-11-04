@@ -374,17 +374,6 @@
     "value" : "134.59 km\/h"
   },
   {
-    "class" : "ÖPPEN KLASS",
-    "date" : "1986-03-19",
-    "deprecated" : false,
-    "glider" : "Jantar Std",
-    "id" : "2a_2",
-    "name" : "Per Fornander",
-    "recordType" : "Rekord",
-    "type" : "Absolut höjd",
-    "value" : "10 096 m"
-  },
-  {
     "class" : "DAMER 15 METERS KLASS",
     "date" : "2020-07-17",
     "deprecated" : false,
