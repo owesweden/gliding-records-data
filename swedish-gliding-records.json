@@ -508,7 +508,7 @@
   {
     "class" : "ÖPPEN KLASS",
     "date" : "1997-06-11",
-    "deprecated" : true,
+    "deprecated" : false,
     "glider" : "ASH25",
     "id" : "7b_2",
     "name" : "Owe Engström",
@@ -1044,17 +1044,6 @@
     "recordType" : "Rekord_satt_i_Sverige",
     "type" : "Distans fri t o r",
     "value" : "808,8 km"
-  },
-  {
-    "class" : "ÖPPEN KLASS",
-    "date" : "2015-06-09",
-    "deprecated" : true,
-    "glider" : "EB28",
-    "id" : "csv_142",
-    "name" : "Wilhelm Wendt \/ Jim Acketoft",
-    "recordType" : "Rekord_satt_i_Sverige",
-    "type" : "Hastighet 1000 km t o r",
-    "value" : "118,74 km\/h"
   },
   {
     "class" : "ÖPPEN KLASS",
