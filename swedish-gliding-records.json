@@ -773,17 +773,6 @@
   },
   {
     "class" : "ÖPPEN KLASS",
-    "date" : "2016-11-27",
-    "deprecated" : false,
-    "glider" : "Arcus M",
-    "id" : "auto_1018",
-    "name" : "Jim Acketoft\/Wilhelm Wendt",
-    "recordType" : "Rekord",
-    "type" : "Distans fri t o r",
-    "value" : "1 154,5 km"
-  },
-  {
-    "class" : "ÖPPEN KLASS",
     "date" : "2016-11-30",
     "deprecated" : false,
     "glider" : "Arcus M",
