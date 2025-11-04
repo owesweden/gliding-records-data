@@ -740,7 +740,7 @@
   {
     "class" : "ÖPPEN KLASS",
     "date" : "2014-07-26",
-    "deprecated" : true,
+    "deprecated" : false,
     "glider" : "ASG 29E",
     "id" : "auto_1013",
     "name" : "Tonny Olsson",
