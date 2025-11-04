@@ -919,11 +919,12 @@
   {
     "class" : "DAMER 15 METERS KLASS",
     "date" : "2014-05-04",
-    "deprecated" : false,
+    "deprecated" : true,
+    "deprecatedAt" : "2025-11-04T12:57:27Z",
     "glider" : "Discus 2T",
     "id" : "csv_106",
     "name" : "Gunilla Lundström‑Lindell",
-    "recordType" : "Rekord_satt_i_Sverige",
+    "recordType" : "Rekord",
     "type" : "Distans fri t o r",
     "value" : "511,5 km"
   },
