@@ -561,6 +561,18 @@
     "value" : "128,64 km\/h"
   },
   {
+    "class" : "DEPRECATED",
+    "date" : "1986-06-20",
+    "deprecated" : true,
+    "deprecatedAt" : "2025-11-06T06:53:53Z",
+    "glider" : "Bergfalke II\/55",
+    "id" : "ZHW9KzteszD055KPhQc1",
+    "name" : "Owe Engström\/Sakari Havbrandt",
+    "recordType" : "Rekord_satt_i_Sverige",
+    "type" : "Distans målflygning",
+    "value" : "340km"
+  },
+  {
     "class" : "15 METERS KLASS",
     "date" : "2006-08-07",
     "deprecated" : false,
