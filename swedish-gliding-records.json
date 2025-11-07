@@ -1015,17 +1015,6 @@
     "value" : ">300 km"
   },
   {
-    "class" : "ÖPPEN KLASS",
-    "date" : "2023-05-13",
-    "deprecated" : false,
-    "glider" : "Okänd",
-    "id" : "auto_1034",
-    "name" : "Richards Svanström",
-    "recordType" : "Rekord_satt_i_Sverige",
-    "type" : "Distans triangelbana",
-    "value" : ">300 km"
-  },
-  {
     "class" : "15 METERS KLASS",
     "date" : "2023-05-15",
     "deprecated" : false,
