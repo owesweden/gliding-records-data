@@ -531,7 +531,7 @@
   {
     "class" : "ÖPPEN KLASS",
     "date" : "1997-06-11",
-    "deprecated" : true,
+    "deprecated" : false,
     "glider" : "ASH25",
     "id" : "7b_2",
     "name" : "Owe Engström",
