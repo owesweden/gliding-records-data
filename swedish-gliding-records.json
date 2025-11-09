@@ -1643,17 +1643,6 @@
     "value" : "120,04 km\/h"
   },
   {
-    "class" : "DAMER 15 METERS KLASS",
-    "date" : "2020-07-17",
-    "deprecated" : false,
-    "glider" : "LS3",
-    "id" : "new_1045",
-    "name" : "Karin Lindgren",
-    "recordType" : "Rekord_satt_i_Sverige",
-    "type" : "Distans målflygning",
-    "value" : "188,0 km"
-  },
-  {
     "class" : "ÖPPEN KLASS",
     "date" : "2021-04-10",
     "deprecated" : false,
