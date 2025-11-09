@@ -1051,11 +1051,11 @@
   {
     "class" : "DAMER 15 METERS KLASS",
     "date" : "2023-05-13",
-    "deprecated" : true,
+    "deprecated" : false,
     "glider" : "Discus 2T",
     "id" : "csv_114",
     "name" : "Gunilla Lundström‑Lindell",
-    "recordType" : "Rekord_satt_i_Sverige",
+    "recordType" : "Rekord",
     "type" : "Hastighet 300 km triangel",
     "value" : "114,34 km\/h"
   },
