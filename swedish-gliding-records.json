@@ -254,17 +254,6 @@
   },
   {
     "class" : "ÖPPEN KLASS",
-    "date" : "1997-06-11",
-    "deprecated" : false,
-    "glider" : "ASH 25",
-    "id" : "17b_2",
-    "name" : "Owe Engström",
-    "recordType" : "Rekord_satt_i_Sverige",
-    "type" : "Hastighet 1000 km triangel",
-    "value" : "95.14 km\/h"
-  },
-  {
-    "class" : "ÖPPEN KLASS",
     "date" : "1992-07-23",
     "deprecated" : false,
     "glider" : "ASH25",
