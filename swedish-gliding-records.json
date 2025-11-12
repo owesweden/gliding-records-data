@@ -534,7 +534,7 @@
     "glider" : "PIK-20B",
     "id" : "7b_1",
     "name" : "Boel Svensson",
-    "recordType" : "Rekord_satt_i_Sverige",
+    "recordType" : "Rekord",
     "type" : "Hastighet 100 km triangel",
     "value" : "117.36 km\/h"
   },
@@ -1242,17 +1242,6 @@
     "recordType" : "Rekord_satt_i_Sverige",
     "type" : "Distans triangelbana",
     "value" : "833,7 km"
-  },
-  {
-    "class" : "15 METERS KLASS",
-    "date" : "2006-08-07",
-    "deprecated" : true,
-    "glider" : "Discus 2t (SE-UTA)",
-    "id" : "new_1004",
-    "name" : "Jan-Ola Nordh",
-    "recordType" : "Rekord_satt_i_Sverige",
-    "type" : "Distans fri t o r",
-    "value" : "769,9 km"
   },
   {
     "class" : "15 METERS KLASS",
