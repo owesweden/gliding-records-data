@@ -1455,7 +1455,7 @@
   {
     "class" : "ÖPPEN KLASS",
     "date" : "2015-06-09",
-    "deprecated" : true,
+    "deprecated" : false,
     "glider" : "EB28",
     "id" : "new_1024",
     "name" : "Wilhelm Wendt\/Jim Acketoft",
