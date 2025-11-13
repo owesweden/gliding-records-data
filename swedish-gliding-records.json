@@ -1212,17 +1212,6 @@
   },
   {
     "class" : "15 METERS KLASS",
-    "date" : "2005-06-07",
-    "deprecated" : false,
-    "glider" : "Ventus-2b",
-    "id" : "new_1001",
-    "name" : "Åke Pettersson",
-    "recordType" : "Rekord_satt_i_Sverige",
-    "type" : "Distans fri",
-    "value" : "910 km"
-  },
-  {
-    "class" : "15 METERS KLASS",
     "date" : "2006-05-15",
     "deprecated" : false,
     "glider" : "Discus 2t (SE-UTA)",
