@@ -409,11 +409,12 @@
   {
     "class" : "ÖPPEN KLASS",
     "date" : "1986-03-19",
-    "deprecated" : false,
+    "deprecated" : true,
+    "deprecatedAt" : "2025-11-14T14:23:10Z",
     "glider" : "Jantar Std",
     "id" : "2b_2",
     "name" : "Per Fornander",
-    "recordType" : "Rekord_satt_i_Sverige",
+    "recordType" : "Rekord",
     "type" : "Absolut höjd",
     "value" : "10 096 m"
   },
