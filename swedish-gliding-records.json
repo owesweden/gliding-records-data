@@ -254,17 +254,6 @@
   },
   {
     "class" : "ÖPPEN KLASS",
-    "date" : "1997-06-11",
-    "deprecated" : false,
-    "glider" : "ASH 25",
-    "id" : "17b_2",
-    "name" : "Owe Engström",
-    "recordType" : "Rekord_satt_i_Sverige",
-    "type" : "Hastighet 1000 km triangel",
-    "value" : "95.14 km\/h"
-  },
-  {
-    "class" : "ÖPPEN KLASS",
     "date" : "1992-07-23",
     "deprecated" : false,
     "glider" : "ASH25",
@@ -420,6 +409,17 @@
     "value" : "10 096 m"
   },
   {
+    "class" : "DAMER 15 METERS KLASS",
+    "date" : "1982-06-02",
+    "deprecated" : false,
+    "glider" : "PIK-20B",
+    "id" : "3Bi6iAgNfLhMqijbfSuE",
+    "name" : "Boel Svensson",
+    "recordType" : "Rekord_satt_i_Sverige",
+    "type" : "Hastighet 100 km triangel",
+    "value" : "117,36 km\/h"
+  },
+  {
     "class" : "ÖPPEN KLASS",
     "date" : "1998-12-11",
     "deprecated" : false,
@@ -440,6 +440,17 @@
     "recordType" : "Rekord_satt_i_Sverige",
     "type" : "Distans fri t o r",
     "value" : "808.8 km"
+  },
+  {
+    "class" : "DAMER 15 METERS KLASS",
+    "date" : "2023-05-13",
+    "deprecated" : false,
+    "glider" : "Discus 2T",
+    "id" : "5Hs4V4yBoKqtDdRzgKo6",
+    "name" : "Gunilla Lundström-Lindell",
+    "recordType" : "Rekord_satt_i_Sverige",
+    "type" : "Hastighet 100 km t o r",
+    "value" : "137,96 km\/h"
   },
   {
     "class" : "15 METERS KLASS",
@@ -484,6 +495,17 @@
     "recordType" : "Rekord_satt_i_Sverige",
     "type" : "Distans t o r",
     "value" : "1010.9 km"
+  },
+  {
+    "class" : "15 METERS KLASS",
+    "date" : "2023-06-02",
+    "deprecated" : false,
+    "glider" : "Discus 2T",
+    "id" : "6b",
+    "name" : "Jan-Ola Nordh",
+    "recordType" : "Rekord_satt_i_Sverige",
+    "type" : "Distans fri över max tre brytpunkter",
+    "value" : "1040.0 km"
   },
   {
     "class" : "DAMER ÖPPEN KLASS",
@@ -618,6 +640,18 @@
     "value" : "114.34 km\/h"
   },
   {
+    "class" : "DEPRECATED",
+    "date" : "1989-06-01",
+    "deprecated" : true,
+    "deprecatedAt" : "2025-11-17T08:53:31Z",
+    "glider" : "ASH 25",
+    "id" : "B7NxnWPfkqFL5JA4MSDE",
+    "name" : "Owe Engström\/Agneta Engström",
+    "recordType" : "Rekord_satt_i_Sverige",
+    "type" : "Hastighet 300 km triangel",
+    "value" : "100 km\/h"
+  },
+  {
     "class" : "ÖPPEN KLASS",
     "date" : "2020-06-01",
     "deprecated" : false,
@@ -627,6 +661,28 @@
     "recordType" : "Rekord_satt_i_Sverige",
     "type" : "Hastighet 500 km triangel",
     "value" : "128,64 km\/h"
+  },
+  {
+    "class" : "DAMER ÖPPEN KLASS",
+    "date" : "1974-04-17",
+    "deprecated" : false,
+    "glider" : "Weihe",
+    "id" : "HMWkLLoovHeFw4Clsq4Q",
+    "name" : "Kerstin Eriksson",
+    "recordType" : "Rekord_satt_i_Sverige",
+    "type" : "Absolut höjd",
+    "value" : "7045 m"
+  },
+  {
+    "class" : "DAMER 15 METERS KLASS",
+    "date" : "2014-05-04",
+    "deprecated" : false,
+    "glider" : "Discus 2T",
+    "id" : "MTnwcIUK4h5gEf25sD1p",
+    "name" : "Gunilla Lundström-Lindell",
+    "recordType" : "Rekord_satt_i_Sverige",
+    "type" : "Distans t o r",
+    "value" : "510,6 km"
   },
   {
     "class" : "DEPRECATED",
@@ -1192,6 +1248,28 @@
   },
   {
     "class" : "ÖPPEN KLASS",
+    "date" : "1992-06-01",
+    "deprecated" : false,
+    "glider" : "Discus",
+    "id" : "iuXkvXG7tZ8OxrwWjIS9",
+    "name" : "Mikael Nildén\/Rainer Lainio",
+    "recordType" : "Rekord_satt_i_Sverige",
+    "type" : "Hastighet 100 km triangel",
+    "value" : "158,34 km\/h"
+  },
+  {
+    "class" : "ÖPPEN KLASS",
+    "date" : "2021-04-11",
+    "deprecated" : false,
+    "glider" : "EB29DR",
+    "id" : "m3rBilVNSkwi3oSMa2Gk",
+    "name" : "Wilhelm Wendt\/Jim Acketoft",
+    "recordType" : "Rekord_satt_i_Sverige",
+    "type" : "Hastighet 300 km t o r",
+    "value" : "159,82 km\/h"
+  },
+  {
+    "class" : "ÖPPEN KLASS",
     "date" : "2005-04-23",
     "deprecated" : true,
     "glider" : "Ventus-2cxm",
@@ -1739,6 +1817,39 @@
     "recordType" : "Rekord_satt_i_Sverige",
     "type" : "Distans fri över max tre brytpunkter",
     "value" : "1 040 km"
+  },
+  {
+    "class" : "ÖPPEN KLASS",
+    "date" : "1998-12-11",
+    "deprecated" : false,
+    "glider" : "ASW 22",
+    "id" : "oBhitMkmCzusALs3NLVP",
+    "name" : "Anders Olsson",
+    "recordType" : "Rekord",
+    "type" : "Distans målflygning",
+    "value" : "713,9 km"
+  },
+  {
+    "class" : "ÖPPEN KLASS",
+    "date" : "2015-06-09",
+    "deprecated" : false,
+    "glider" : "EB28",
+    "id" : "oEWxluLBbDin9qTtVG6Y",
+    "name" : "Wilhelm Wendt\/Jim Acketoft",
+    "recordType" : "Rekord_satt_i_Sverige",
+    "type" : "Hastighet 750 km t o r",
+    "value" : "118,74 km\/h"
+  },
+  {
+    "class" : "15 METERS KLASS",
+    "date" : "1966",
+    "deprecated" : true,
+    "deprecatedAt" : "2025-11-14T18:04:05Z",
+    "id" : "tfC2kyXxnFhVyPk42xTb",
+    "name" : "Evald Ek",
+    "recordType" : "Rekord_satt_i_Sverige",
+    "type" : "Hastighet 300 km triangel",
+    "value" : "60 km\/h"
   },
   {
     "class" : "ÖPPEN KLASS",
