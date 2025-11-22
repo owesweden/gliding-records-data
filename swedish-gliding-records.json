@@ -485,17 +485,6 @@
     "value" : "1010.9 km"
   },
   {
-    "class" : "15 METERS KLASS",
-    "date" : "2023-06-02",
-    "deprecated" : false,
-    "glider" : "Discus 2T",
-    "id" : "6b",
-    "name" : "Jan-Ola Nordh",
-    "recordType" : "Rekord_satt_i_Sverige",
-    "type" : "Distans fri över max tre brytpunkter",
-    "value" : "1040.0 km"
-  },
-  {
     "class" : "DAMER ÖPPEN KLASS",
     "date" : "1982-01-19",
     "deprecated" : false,
