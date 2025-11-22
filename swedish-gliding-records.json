@@ -254,6 +254,17 @@
   },
   {
     "class" : "ÖPPEN KLASS",
+    "date" : "1997-06-11",
+    "deprecated" : false,
+    "glider" : "ASH 25",
+    "id" : "17b_2",
+    "name" : "Owe Engström",
+    "recordType" : "Rekord_satt_i_Sverige",
+    "type" : "Hastighet 1000 km triangel",
+    "value" : "95.14 km\/h"
+  },
+  {
+    "class" : "ÖPPEN KLASS",
     "date" : "1992-07-23",
     "deprecated" : false,
     "glider" : "ASH25",
@@ -376,8 +387,7 @@
   {
     "class" : "ÖPPEN KLASS",
     "date" : "1986-03-19",
-    "deprecated" : true,
-    "deprecatedAt" : "2025-11-22T09:15:05Z",
+    "deprecated" : false,
     "glider" : "Jantar Std",
     "id" : "2a_2",
     "name" : "Per Fornander",
@@ -399,12 +409,11 @@
   {
     "class" : "ÖPPEN KLASS",
     "date" : "1986-03-19",
-    "deprecated" : true,
-    "deprecatedAt" : "2025-11-14T14:23:10Z",
+    "deprecated" : false,
     "glider" : "Jantar Std",
     "id" : "2b_2",
     "name" : "Per Fornander",
-    "recordType" : "Rekord",
+    "recordType" : "Rekord_satt_i_Sverige",
     "type" : "Absolut höjd",
     "value" : "10 096 m"
   },
@@ -1209,7 +1218,7 @@
     "glider" : "Arcus M (Namibia)",
     "id" : "csv_151",
     "name" : "Thomas Jobs \/ Markus Ganev",
-    "recordType" : "Rekord",
+    "recordType" : "Rekord_satt_i_Sverige",
     "type" : "Hastighet 750 km t o r",
     "value" : "151,34 km\/h"
   },
@@ -1281,6 +1290,17 @@
   },
   {
     "class" : "15 METERS KLASS",
+    "date" : "2005-06-07",
+    "deprecated" : false,
+    "glider" : "Ventus-2b",
+    "id" : "new_1001",
+    "name" : "Åke Pettersson",
+    "recordType" : "Rekord_satt_i_Sverige",
+    "type" : "Distans fri",
+    "value" : "910 km"
+  },
+  {
+    "class" : "15 METERS KLASS",
     "date" : "2006-05-15",
     "deprecated" : false,
     "glider" : "Discus 2t (SE-UTA)",
@@ -1300,6 +1320,17 @@
     "recordType" : "Rekord_satt_i_Sverige",
     "type" : "Distans triangelbana",
     "value" : "833,7 km"
+  },
+  {
+    "class" : "15 METERS KLASS",
+    "date" : "2006-08-07",
+    "deprecated" : true,
+    "glider" : "Discus 2t (SE-UTA)",
+    "id" : "new_1004",
+    "name" : "Jan-Ola Nordh",
+    "recordType" : "Rekord_satt_i_Sverige",
+    "type" : "Distans fri t o r",
+    "value" : "769,9 km"
   },
   {
     "class" : "15 METERS KLASS",
@@ -1425,7 +1456,7 @@
   {
     "class" : "15 METERS KLASS",
     "date" : "2014-05-04",
-    "deprecated" : false,
+    "deprecated" : true,
     "glider" : "Discus 2T",
     "id" : "new_1016",
     "name" : "Jan-Ola Nordh",
@@ -1513,7 +1544,7 @@
   {
     "class" : "ÖPPEN KLASS",
     "date" : "2015-06-09",
-    "deprecated" : false,
+    "deprecated" : true,
     "glider" : "EB28",
     "id" : "new_1024",
     "name" : "Wilhelm Wendt\/Jim Acketoft",
