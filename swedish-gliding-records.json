@@ -906,11 +906,12 @@
   {
     "class" : "ÖPPEN KLASS",
     "date" : "2016-11-27",
-    "deprecated" : false,
+    "deprecated" : true,
+    "deprecatedAt" : "2025-12-06T14:09:49Z",
     "glider" : "Arcus M",
     "id" : "auto_1018",
     "name" : "Jim Acketoft\/Wilhelm Wendt",
-    "recordType" : "Rekord",
+    "recordType" : "Rekord_satt_i_Sverige",
     "type" : "Distans fri t o r",
     "value" : "1 154,5 km"
   },
