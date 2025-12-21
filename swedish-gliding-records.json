@@ -508,7 +508,8 @@
   {
     "class" : "DAMER ÖPPEN KLASS",
     "date" : "1982-01-19",
-    "deprecated" : false,
+    "deprecated" : true,
+    "deprecatedAt" : "2025-12-21T11:04:31Z",
     "glider" : "DG-200\/17 (i Australien)",
     "id" : "7a_1",
     "name" : "Boel Svensson",
