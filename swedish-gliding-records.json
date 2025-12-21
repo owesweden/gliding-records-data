@@ -484,17 +484,6 @@
     "value" : "521.3 km"
   },
   {
-    "class" : "DAMER 15 METERS KLASS",
-    "date" : "2021-04-30",
-    "deprecated" : false,
-    "glider" : "Discus 2T",
-    "id" : "5b_1",
-    "name" : "Gunilla Lundström-Lindell",
-    "recordType" : "Rekord",
-    "type" : "Distans triangelbana",
-    "value" : "515.6 km"
-  },
-  {
     "class" : "ÖPPEN KLASS",
     "date" : "2015-06-09",
     "deprecated" : false,
